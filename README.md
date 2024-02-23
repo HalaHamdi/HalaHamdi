@@ -1,14 +1,37 @@
-<h1 align="center">Hi 👋, I'm Hala Hamdy</h1>
-<h3 align="center">A computer engineer who is eager beaver</h3>
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hala-hamdy-6665a91b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hala-hamdy-6665a91b0/" height="30" width="40" /></a>
-<a href="https://kaggle.com/halahamdy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="halahamdy" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/halahamdy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="halahamdy" height="30" width="40" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I+am+Hala+Hamdy;A+Computer+Engineer+Graduate;Currently+Working+as+a+Datascientist&height=100&width=450&font=Kode+Mono&color=ED5AB3&background=000000&center=true&vCenter=true&multiline=true&repeat=false&duration=2500)](https://git.io/typing-svg)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Halahamdy22&theme=jolly)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Halahamdy22&theme=jolly)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Halahamdy22&theme=jolly)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Halahamdy22&theme=jolly)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Halahamdy22&theme=jolly&utcOffset=8)
+
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=python,cpp,html,css,js,nodejs,mysql&includeNames=true&theme=darkmode&)](https://github.com/Jurredr/github-widgetbox)
+
+
+<h1 >LeetCode Status</h1>
+
+![](https://leetcard.jacoblin.cool/halahamdy?ext=activity,theme=unicorn)
+
+
+
+<h1 >Connect with me</h1>
+<p>
+    <a href="https://linkedin.com/in/hala-hamdy-6665a91b0/" target="blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="hala-hamdy-6665a91b0/" />
+    </a>
+    <a href="https://kaggle.com/halahamdy" target="blank">
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="halahamdy"/>
+    </a>
+    <a href="https://leetcode.com/halahamdy/" target="blank">
+      <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="halahamdy"/>
+    </a>
+  <a href="mailto:halahamdyabdelhady@gmail.com" target="blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="halahamdy"/>
+    </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=halahamdy22&show_icons=true&locale=en" alt="halahamdy22" /></p>
+</div>
