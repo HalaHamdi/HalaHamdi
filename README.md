@@ -14,7 +14,7 @@
 
 <h1 >LeetCode Status</h1>
 
-![](https://leetcard.jacoblin.cool/halahamdy?ext=activity,theme=unicorn)
+![](https://leetcard.jacoblin.cool/halahamdy?ext=activity&theme=unicorn)
 
 
 
