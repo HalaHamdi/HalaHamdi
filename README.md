@@ -2,6 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I+am+Hala+Hamdy;A+Computer+Engineering+Graduate;Currently+Working+as+a+Datascientist&height=500&width=2500&font=Kode+Mono&color=ED5AB3&background=270540&center=true&vCenter=true&multiline=true&repeat=false&duration=2500&size=100)](https://git.io/typing-svg)
 
+<p>
+    I'm a computer engineering graduate leveraging machine learning, deep learning, and data science to create intelligent systems that enhance efficiency and decision-making. Proficient in data visualization and analysis, with a dedication to advancing skills in computer vision and NLP. Committed to continuous learning to remain up-to-date with the latest trends and technologies.
+</p>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HalaHamdi&theme=jolly)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HalaHamdi&theme=jolly)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HalaHamdi&theme=jolly)
