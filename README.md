@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I+am+Hala+Hamdy;A+Computer+Engineer+Graduate;Currently+Working+as+a+Datascientist&height=500&width=2500&font=Kode+Mono&color=ED5AB3&background=270540&center=true&vCenter=true&multiline=true&repeat=false&duration=2500&size=100)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I+am+Hala+Hamdy;A+Computer+Engineering+Graduate;Currently+Working+as+a+Datascientist&height=500&width=2500&font=Kode+Mono&color=ED5AB3&background=270540&center=true&vCenter=true&multiline=true&repeat=false&duration=2500&size=100)](https://git.io/typing-svg)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HalaHamdi&theme=jolly)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HalaHamdi&theme=jolly)
