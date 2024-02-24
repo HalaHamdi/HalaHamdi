@@ -2,11 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I+am+Hala+Hamdy;A+Computer+Engineer+Graduate;Currently+Working+as+a+Datascientist&height=500&width=2500&font=Kode+Mono&color=ED5AB3&background=270540&center=true&vCenter=true&multiline=true&repeat=false&duration=2500&size=100)](https://git.io/typing-svg)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Halahamdy22&theme=jolly)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Halahamdy22&theme=jolly)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Halahamdy22&theme=jolly)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Halahamdy22&theme=jolly)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Halahamdy22&theme=jolly&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HalaHamdi&theme=jolly)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HalaHamdi&theme=jolly)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HalaHamdi&theme=jolly)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HalaHamdi&theme=jolly)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HalaHamdi&theme=jolly&utcOffset=8)
 
 
 
