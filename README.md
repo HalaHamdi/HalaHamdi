@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I+am+Hala+Hamdy;A+Computer+Engineer+Graduate;Currently+Working+as+a+Datascientist&height=100&width=450&font=Kode+Mono&color=ED5AB3&background=000000&center=true&vCenter=true&multiline=true&repeat=false&duration=2500)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I+am+Hala+Hamdy;A+Computer+Engineer+Graduate;Currently+Working+as+a+Datascientist&height=500&width=2500&font=Kode+Mono&color=ED5AB3&background=270540&center=true&vCenter=true&multiline=true&repeat=false&duration=2500&size=100)](https://git.io/typing-svg)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Halahamdy22&theme=jolly)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Halahamdy22&theme=jolly)
@@ -9,13 +9,16 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Halahamdy22&theme=jolly&utcOffset=8)
 
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=python,cpp,html,css,js,nodejs,mysql&includeNames=true&theme=darkmode&)](https://github.com/Jurredr/github-widgetbox)
+
+<h1 >Languages & Platforms </h1>
+
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,html,css,js,nodejs,mysql,mongodb&perline=4)](https://skillicons.dev)
+
 
 
 <h1 >LeetCode Status</h1>
 
-![](https://leetcard.jacoblin.cool/halahamdy?ext=activity&theme=unicorn)
-
+![](https://leetcard.jacoblin.cool/halahamdy?theme=unicorn)
 
 
 <h1 >Connect with me</h1>
